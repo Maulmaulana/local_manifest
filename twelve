@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/lavender-1" name="Maaaul/device_xiaomi_lavender-1.git" remote="github" revision="12.1" />
+ <project path="android/vendor/xiaomi/lavender" name="Maaaul/android_vendor_xiaomi_lavender.git" remote="github" revision="12.1" />
+ <project path="nexus/kernel/xiaomi/lavender" name="Maaaul/nexus_kernel_xiaomi_lavender.git" remote="github" revision="qti-old" />
+ 
+</manifest>
