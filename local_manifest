@@ -3,7 +3,6 @@
 
  <!-- Trees -->
  <project path="device/xiaomi/lavender" name="Maaaul/device_xiaomi_lavender.git" remote="github" revision="thirteen" />
- <project path="device/xiaomi/sdm660-common" name="Maaaul/device_xiaomi_sdm660-common.git" remote="github" revision="thirteen" />
  <project path="vendor/xiaomi/lavender" name="Maaaul/vendor_xiaomi_lavender.git" remote="github" revision="thirteen" />
  <project path="kernel/xiaomi/sdm660" name="Maaaul/kernel_xiaomi_sdm660.git" remote="github" revision="thirteen" />
  
