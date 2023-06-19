@@ -2,8 +2,8 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device-santoni" name="Maaaul/device-santoni.git" remote="github" revision="11-staging" />
+ <project path="device-santoni" name="Maaaul/device-santoni.git" remote="github" revision="11.0" />
  <project path="vendor-santoni" name="Maaaul/vendor-santoni.git" remote="github" revision="11.0" />
- <project path="msm-4.9-santoni-kud" name="Maaaul/msm-4.9-santoni-kud.git" remote="github" revision="11.0" />
+ <project path="kernel-santoni" name="Maaaul/kernel-santoni.git" remote="github" revision="11.0" />
  
 </manifest>
